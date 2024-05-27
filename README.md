@@ -1,4 +1,4 @@
-[🇧🇷️]()
+[🇧🇷️](https://github.com/iFallenHunt/HiringProcess/blob/main/READEME-PT.md)
 # Hiring Process Automation
 
 This Java program automates the hiring process by comparing candidate salary expectations with the base salary and contacting selected candidates.
