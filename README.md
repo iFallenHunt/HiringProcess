@@ -1,3 +1,4 @@
+[🇧🇷️]()
 # Hiring Process Automation
 
 This Java program automates the hiring process by comparing candidate salary expectations with the base salary and contacting selected candidates.
@@ -23,3 +24,8 @@ This Java program automates the hiring process by comparing candidate salary exp
 ```bash
 javac HiringProcess.java
 java HiringProcess
+```
+
+License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/iFallenHunt/HiringProcess/blob/main/LICENSE) file for details.
